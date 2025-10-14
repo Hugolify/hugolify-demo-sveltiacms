@@ -4,3 +4,7 @@ _merge: deep
 admin:
   cms: sveltiacms
   repo: Hugolify/hugolify-demo-sveltiacms
+
+  collections:
+    indexes:
+      enable: false # disable unused collection
