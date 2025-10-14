@@ -1,1 +1,6 @@
 _merge: deep
+
+# Admin
+admin:
+  cms: sveltiacms
+  repo: Hugolify/hugolify-demo-sveltiacms
