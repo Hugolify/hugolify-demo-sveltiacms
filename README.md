@@ -1,3 +1,5 @@
+![How to create a Website with Hugo and Sveltia CMS using Hugolify](https://res.cloudinary.com/uncinq/image/upload/v1760515765/share-tuto-sveltiacms_vlubyb.png)
+
 # Hugolify demo sveltiacms
 
 ## Commands
