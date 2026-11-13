@@ -1,11 +1,11 @@
 # fr:
-#   languageCode: fr
-#   languageName: Français
+#   label: Français
+#   locale: fr
 #   title: Demo Hugolify
 #   weight: 2
 
 en:
-  languageCode: en
-  languageName: English
+  label: English
+  locale: en
   title: Hugolify demo
   weight: 1
