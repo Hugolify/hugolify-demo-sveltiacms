@@ -1,0 +1,15 @@
+# Triggered by the "Publish Changes" button of Sveltia CMS
+name: Publish
+
+on:
+  repository_dispatch:
+    types: [sveltia-cms-publish]
+
+jobs:
+  netlify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger the Netlify build hook
+        env:
+          NETLIFY_BUILD_HOOK: ${{ secrets.NETLIFY_BUILD_HOOK }}
+        run: curl --fail --silent --show-error -X POST -d '{}' "$NETLIFY_BUILD_HOOK"
