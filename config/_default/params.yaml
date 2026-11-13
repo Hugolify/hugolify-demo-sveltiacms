@@ -4,7 +4,9 @@ _merge: deep
 admin:
 
   cms: sveltiacms
+  name: github
   repo: Hugolify/hugolify-demo-sveltiacms
+  skip_ci: true
   auth:
     netlify_identity: false
 
