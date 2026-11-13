@@ -6,7 +6,7 @@ admin:
   cms: sveltiacms
   repo: Hugolify/hugolify-demo-sveltiacms
   auth:
-    netlify: false
+    netlify_identity: false
 
   collections:
     indexes:
