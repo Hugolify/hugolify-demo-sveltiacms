@@ -14,3 +14,7 @@ admin:
   collections:
     indexes:
       enable: false # disable unused collection
+  collection_groups:
+    - collections: [pages, projects, projects_types]
+    - collections: [posts, posts_categories, posts_tags]
+    - collections: [persons, menus, config]
