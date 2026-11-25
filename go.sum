@@ -18,8 +18,8 @@ github.com/hugolify/hugolify-theme-posts-tags/v2 v2.3.0 h1:jmvOUIq8ppNmcA+yGvQmQ
 github.com/hugolify/hugolify-theme-posts-tags/v2 v2.3.0/go.mod h1:FYnmCa2AG/XFF0XfNjc2GV5xQ8GUsGTxGb4iH50am1s=
 github.com/hugolify/hugolify-theme-posts/v2 v2.8.0 h1:omq/Pb+/U9kOgI0710dhXoKQpIC4Bd7B1opsrZu9x/c=
 github.com/hugolify/hugolify-theme-posts/v2 v2.8.0/go.mod h1:dHhV8ouOmfrMz7Kz+LFhc8vCBb8sugI5d9wDzhO1n2M=
-github.com/hugolify/hugolify-theme-projects-types v1.0.15 h1:VsdL2pqcz64Bc4vIeW6ZnGbXSxHddvhmJw52yHTESD8=
-github.com/hugolify/hugolify-theme-projects-types v1.0.15/go.mod h1:6w9aM4KMjvQspp6wm67iFZzVRuC6gRR3PTXgxud8BAg=
+github.com/hugolify/hugolify-theme-projects-types/v2 v2.0.0 h1:fQhthFwnP1ba1chpD622hhaQmLirizZKX9gXnSZr/xs=
+github.com/hugolify/hugolify-theme-projects-types/v2 v2.0.0/go.mod h1:1w7OO5J4DIaGnBMK+SQagg2b2jfy+6C3fFJoUJ2ZHS8=
 github.com/hugolify/hugolify-theme-projects/v2 v2.0.0 h1:C8wCdLLKGoOiL2hx4Rz3og7SL560S3rk3NUN+TMvp1M=
 github.com/hugolify/hugolify-theme-projects/v2 v2.0.0/go.mod h1:KHDKdhjysSyeZlev1c3iTBgALBB+FGzWUvTpBB/zHpE=
 github.com/hugolify/hugolify-theme/v2 v2.74.0 h1:Z6xXprzs4xeMG9Kzi8LbnA3TNoVjKFJrNdPz+rmVZKs=

@@ -13,7 +13,7 @@ require (
 	github.com/hugolify/hugolify-theme-posts-categories/v2 v2.3.0 // indirect
 	github.com/hugolify/hugolify-theme-posts-tags/v2 v2.3.0 // indirect
 	github.com/hugolify/hugolify-theme-posts/v2 v2.8.0 // indirect
-	github.com/hugolify/hugolify-theme-projects-types v1.0.15 // indirect
+	github.com/hugolify/hugolify-theme-projects-types/v2 v2.0.0 // indirect
 	github.com/hugolify/hugolify-theme-projects/v2 v2.0.0 // indirect
 	github.com/hugolify/hugolify-theme/v2 v2.74.0 // indirect
 	github.com/lucide-icons/lucide v0.265.1-0.20261117152740-149eba0aea48 // indirect
